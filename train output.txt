@@ -1,0 +1,14 @@
+Available seats: 100
+Enter number of seats to book (0 to exit): 3
+Successfully booked 3 seat(s) for a total cost of $150
+Available seats: 97
+Enter number of seats to book (0 to exit): 2
+Successfully booked 2 seat(s) for a total cost of $100
+Available seats: 95
+Enter number of seats to book (0 to exit): 100
+Error: Not enough seats available
+Available seats: 95
+Enter number of seats to book (0 to exit): 4
+Successfully booked 4 seat(s) for a total cost of $200
+Available seats: 91
+Enter number of seats to book (0 to exit): 0
